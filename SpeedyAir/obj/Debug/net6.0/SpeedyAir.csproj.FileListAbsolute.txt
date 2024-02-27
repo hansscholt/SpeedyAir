@@ -1,0 +1,15 @@
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net6.0\SpeedyAir.exe
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net6.0\SpeedyAir.deps.json
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net6.0\SpeedyAir.runtimeconfig.json
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net6.0\SpeedyAir.dll
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\bin\Debug\net6.0\SpeedyAir.pdb
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.csproj.AssemblyReference.cache
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.AssemblyInfoInputs.cache
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.AssemblyInfo.cs
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.csproj.CoreCompileInputs.cache
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.dll
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\refint\SpeedyAir.dll
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.pdb
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\SpeedyAir.genruntimeconfig.cache
+C:\Users\hanss_nuxi99u\source\repos\SpeedyAir\SpeedyAir\obj\Debug\net6.0\ref\SpeedyAir.dll
